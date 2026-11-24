@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,15 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10, Windows 11 (64-bit versions) / Rec: Windows 11 (64-bit versions) | macOS 11.0 or later |
+| **Processor** | Min: AMD Ryzen 3 3100 / Intel i3-8100 / Rec: AMD Ryzen5 3600 / Intel i5-10400 | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A38… / Rec: NVIDIA RTX 2060 6GB / AMD RX 6600 8GB | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 65 GB available space | 65 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Sound Card** | Min: DirectX® 9.0c compatible sound card with latest drivers / Rec: DirectX® 9.0c compatible sound card 5.1 with latest dri… | DirectX® 9.0c compatible sound card with latest drivers |
+| **Additional Notes** | For an up-to-date list of supported chipsets, please vi… | For an up-to-date list of supported chipsets, please vi… |
 
 ---
 
